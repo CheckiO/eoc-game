@@ -2,7 +2,7 @@
  {
   "CATEGORY_SLUG": "resource",
   "SLUG": "adamantite_mine",
-  "description": "Extracts mineral Adamantite for construction.",
+  "description": "Extracts valuable Adamantite mineral used for building structures.",
   "description_upgrade": "",
   "grid_height": 3,
   "grid_width": 3,
@@ -13,7 +13,7 @@
  {
   "CATEGORY_SLUG": "resource",
   "SLUG": "adamantite_storage",
-  "description": "Purpose-built high capacity sheds for holding large quantities of Adamantite.",
+  "description": "Special-purpose high capacity sheds for keeping large quantities of Adamantite.",
   "description_upgrade": null,
   "grid_height": 3,
   "grid_width": 3,
@@ -35,7 +35,7 @@
  {
   "CATEGORY_SLUG": null,
   "SLUG": "command_center",
-  "description": "The nervous system of your colony. Upgrades enable increased construction capabilities and storage.",
+  "description": "The backbone of your colony. Command center upgrades increase storage and construction capabilities.",
   "description_upgrade": null,
   "grid_height": 4,
   "grid_width": 4,
@@ -57,7 +57,7 @@
  {
   "CATEGORY_SLUG": "resource",
   "SLUG": "crystalite_farm",
-  "description": "Grows and harvests one of the most precious resources available.",
+  "description": "Grows and harvests Crystalite resource used to build and upgrade mobile troops.",
   "description_upgrade": null,
   "grid_height": 3,
   "grid_width": 3,
@@ -68,7 +68,7 @@
  {
   "CATEGORY_SLUG": "resource",
   "SLUG": "crystalite_silo",
-  "description": "High capacity specialised silos for the storage of raw Crystalite.",
+  "description": "High capacity specialised silos to store raw Crystalite.",
   "description_upgrade": null,
   "grid_height": 3,
   "grid_width": 3,
@@ -112,7 +112,7 @@
  {
   "CATEGORY_SLUG": "support",
   "SLUG": "laboratory",
-  "description": "Research new tech, to upgrade units and weapons and keep your colony on the bleeding edge.",
+  "description": "Research new technology to provide your colony with bleeding edge weaponary and equipment.",
   "description_upgrade": null,
   "grid_height": 3,
   "grid_width": 3,
@@ -123,7 +123,7 @@
  {
   "CATEGORY_SLUG": "defense",
   "SLUG": "landmine",
-  "description": "Hidden explosives which can decimate the enemy once tread on.",
+  "description": "Hidden explosives which can decimate the enemy once stepped on.",
   "description_upgrade": null,
   "grid_height": 1,
   "grid_width": 1,
@@ -134,7 +134,7 @@
  {
   "CATEGORY_SLUG": "defense",
   "SLUG": "machine_gun",
-  "description": "Quickly cut down encroaching forces with the high rate of fire from these machine gunners.",
+  "description": "Powerful, but short-range machine guns to quickly cut down encroaching forces with high rate of fire.",
   "description_upgrade": null,
   "grid_height": 2,
   "grid_width": 2,
@@ -167,7 +167,7 @@
  {
   "CATEGORY_SLUG": "defense",
   "SLUG": "rocket_gun",
-  "description": "Targets groups of enemy forces with long-range explosive shells.",
+  "description": "Long-range explosive missile launcher best used against densely packed groups.",
   "description_upgrade": "",
   "grid_height": 2,
   "grid_width": 2,
@@ -233,7 +233,7 @@
  {
   "CATEGORY_SLUG": "resource",
   "SLUG": "vault",
-  "description": "Resources are kept safe from damage and theft within the walls of the impenetrable Vaultmaster 5K.",
+  "description": "Impenetrable Vaultmaster 5K protected storage to keep resources safe from damage and theft.",
   "description_upgrade": null,
   "grid_height": 3,
   "grid_width": 3,
